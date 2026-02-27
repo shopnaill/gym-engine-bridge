@@ -1,7 +1,7 @@
 {
   "version": "1.0.7",
-  "download_url": "https://raw.githubusercontent.com/shopnaill/gym-engine-bridge/main/updates/barcode_bridge.exe",
-  "exe_url": "https://raw.githubusercontent.com/shopnaill/gym-engine-bridge/main/updates/barcode_bridge.exe",
+  "download_url": "https://raw.githubusercontent.com/shopnaill/gym-engine-bridge/main/barcode_bridge.exe",
+  "exe_url": "https://raw.githubusercontent.com/shopnaill/gym-engine-bridge/main/barcode_bridge.exe",
   "exe_sha256": "c606bd7f5bccf81ada0f9f034057ba3e0946025f8c8c5c8155851ff425c4a4e4",
   "sha256": "c606bd7f5bccf81ada0f9f034057ba3e0946025f8c8c5c8155851ff425c4a4e4",
   "artifact_type": "exe",

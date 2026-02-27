@@ -1,0 +1,12 @@
+# Keep only release channel files in this public updates repo
+*
+
+# Allow git metadata and this ignore file
+!.gitignore
+
+# Allow update artifacts
+!update-manifest.json
+!barcode_bridge.exe
+
+# Optional public docs (uncomment if needed)
+#!README.md
