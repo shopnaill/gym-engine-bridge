@@ -1,10 +1,10 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "download_url": "https://raw.githubusercontent.com/shopnaill/gym-engine-bridge/main/barcode_bridge.exe",
   "exe_url": "https://raw.githubusercontent.com/shopnaill/gym-engine-bridge/main/barcode_bridge.exe",
-  "exe_sha256": "c606bd7f5bccf81ada0f9f034057ba3e0946025f8c8c5c8155851ff425c4a4e4",
-  "sha256": "c606bd7f5bccf81ada0f9f034057ba3e0946025f8c8c5c8155851ff425c4a4e4",
+  "exe_sha256": "30f413e0e2c2a85f7de54bc3fb53ccd3fd5c0281518002afab87cfa4d6a3cb44",
+  "sha256": "30f413e0e2c2a85f7de54bc3fb53ccd3fd5c0281518002afab87cfa4d6a3cb44",
   "artifact_type": "exe",
-  "published_at": "2026-02-27T20:55:36Z",
-  "notes": "Fix updater integrity + disable UPX"
+  "published_at": "2026-02-27T21:24:54Z",
+  "notes": "your release notes"
 }
