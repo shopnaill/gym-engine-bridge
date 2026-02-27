@@ -1,10 +1,10 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "download_url": "https://raw.githubusercontent.com/shopnaill/gym-engine-bridge/main/barcode_bridge.exe",
   "exe_url": "https://raw.githubusercontent.com/shopnaill/gym-engine-bridge/main/barcode_bridge.exe",
-  "exe_sha256": "0a42a934944e2ebcdb3627d0268fea660d07c560e9cb20f1f89a7667f21f1dd7",
-  "sha256": "0a42a934944e2ebcdb3627d0268fea660d07c560e9cb20f1f89a7667f21f1dd7",
+  "exe_sha256": "26e678229571a315e811ff8540a052f6d48d43f0805e4896a6bb56486e62d777",
+  "sha256": "26e678229571a315e811ff8540a052f6d48d43f0805e4896a6bb56486e62d777",
   "artifact_type": "exe",
-  "published_at": "2026-02-27T21:54:15Z",
-  "notes": "your release notes"
+  "published_at": "2026-02-27T22:22:09Z",
+  "notes": "UI Updates"
 }
